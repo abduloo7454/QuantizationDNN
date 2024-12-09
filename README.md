@@ -12,3 +12,10 @@
 | Quantization and Deployment of Deep Neural Networks on Microcontrollers                      | 2021 | -                                                                        | [paper](https://arxiv.org/abs/2105.13331) |
 |     |     |     |                     |
 |     |     |     |  |
+
+
+# Other links of codes and theory
+
+|Models| Description | Link |
+|-----|------|------|
+|K-means, Linear, Binary/Ternary quantization | Detail theory and codes available| [code](https://www.coditation.com/blog/how-to-optimize-large-deep-learning-models-using-quantization#:~:text=K%2DMeans%2Dbased%20quantization%20is,the%20K%2DMeans%20clustering%20algorithm.)|
