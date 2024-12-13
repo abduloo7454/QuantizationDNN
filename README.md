@@ -31,8 +31,8 @@
 | CNQ: Compressor-Based Non-uniformQuantization of Deep Neural Networks | 2020 | develop a novel method named Compressor-based non-uniform quantization (CNQ) method to achievenon-uniform quantization of DNNs with few unlabeledsample | [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/cje.2020.09.014) |
 | Low-bit Quantization of Neural Networks for Efficient Inference | 2019 | Minimum Mean Squared Error (MMSE) | [Paper](https://www.google.com/search?q=low-bit+quantization+of+neural+networks+for+efficient+inference&rlz=1C1GCEU_enMY1056MY1057&oq=Low-bit+Quantization+of+Neural+Networks+for+Efficient+Inference&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYPNIBBzM3OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8) |
 | UNIQ: UNIFORM NOISE INJECTION FOR NON-UNIFORM QUANTIZATION OF NEURAL NETWORKS | 2018 | low computational budget regime | [Paper](https://www.google.com/search?q=UNIQ%3A+UNIFORM+NOISE+INJECTION+FOR+NON-UNIFORM+QUANTIZATION+OF+NEURAL+NETWORKS&rlz=1C1GCEU_enMY1056MY1057&oq=UNIQ%3A+UNIFORM+NOISE+INJECTION+FOR+NON-UNIFORM+QUANTIZATION+OF+NEURAL+NETWORKS&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEHODA2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8) |
-| Nonuniform-to-Uniform Quantization: Towards Accurate Quantization via Generalized Straight-Through Estimation | 2022 |  | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9879262) |
-
+| Nonuniform-to-Uniform Quantization: Towards Accurate Quantization via Generalized Straight-Through Estimation | 2022 | Nonuniform-to-Uniform Quantization (N2UQ) | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9879262) |
+| Efficient Weights Quantization of Convolutional Neural Networks Using Kernel Density Estimation based Non-uniform Quantizer | 2019 | propose a kernel density estimation based non-uniform quantization methodology that can perform compression efficiently. | [Paper](https://www.mdpi.com/2076-3417/9/12/2559) |
 
 
 
