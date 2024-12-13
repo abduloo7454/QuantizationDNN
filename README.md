@@ -19,3 +19,20 @@
 |Models| Description | Link |
 |-----|------|------|
 |K-means, Linear, Binary/Ternary quantization | Detail theory and codes available| [code](https://www.coditation.com/blog/how-to-optimize-large-deep-learning-models-using-quantization#:~:text=K%2DMeans%2Dbased%20quantization%20is,the%20K%2DMeans%20clustering%20algorithm.)|
+
+
+# K-means based non-uniform quantization
+| TITLE | YEAR | DESCRIPTION |LINK |
+|------|-------|------|-------|
+| Efficient Weights Quantization of Convolutional Neural Networks Using Kernel Density Estimation based Non-uniform Quantizer |  2019  | Proposed a kernel density estimation-based non-uniform quantizer that efficiently quantizes weights using a smaller subset of sampled data, achieving comparable performance to traditional methods with reduced computational costs. | [Paper](https://mdpi.com/2076-3417/9/12/2559?utm_source=chatgpt.com)  |
+
+
+
+
+
+
+
+
+
+
+
