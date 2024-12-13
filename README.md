@@ -26,9 +26,7 @@
 |------|-------|------|-------|
 | Efficient Weights Quantization of Convolutional Neural Networks Using Kernel Density Estimation based Non-uniform Quantizer |  2019  | Proposed a kernel density estimation-based non-uniform quantizer that efficiently quantizes weights using a smaller subset of sampled data, comparable performance to traditional methods with reduced computational costs. | [Paper](https://mdpi.com/2076-3417/9/12/2559?utm_source=chatgpt.com)  |
 |  Flexible Quantization for Efficient Convolutional Neural Networks | 2024  | combines the benefits of non-uniform quantization with the implementation efficiency of uniform quantization. This method, termed non-uniform uniform quantization (NUUQ), decouples quantization levels from bit-width, allowing for flexible trade-offs between spatial and temporal complexity in hardware implementations. | [Paper](https://www.mdpi.com/2079-9292/13/10/1923?utm_source=chatgpt.com) |
-
 | IDKM: Memory Efficient Neural Network Quantization via Implicit, Differentiable k-Means |  2023  |  differentiable k-means algorithm (IDKM) that reduces memory complexity, enabling the quantization of large neural networks like ResNet-18 on hardware where traditional k-means methods are impractical  |  [Paper](https://arxiv.org/abs/2312.07759?utm_source=chatgpt.com)  |
-
 | Distributional Quantization of Large Language Models | 2023 | novel method for quantization of LLMs, which stores their parameters in 4 bits while maintaining a performance level comparable to full-precision models. The weight matrices are split into blocks, and for each block, quantization bins are computed as quantiles of a probability distribution. We analyze blocks following Gaussian, Beta, and Student’s t distributions and provide intuition about the parametric assumptions made for each of them. |  |
 
 
