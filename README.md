@@ -17,7 +17,7 @@
 # Other links of codes and theory
 
 |Models| Description | Link |
-|-----|------|------|https://www.mdpi.com/2079-9292/13/10/1923?utm_source=chatgpt.com
+|-----|------|------|
 |K-means, Linear, Binary/Ternary quantization | Detail theory and codes available| [code](https://www.coditation.com/blog/how-to-optimize-large-deep-learning-models-using-quantization#:~:text=K%2DMeans%2Dbased%20quantization%20is,the%20K%2DMeans%20clustering%20algorithm.)|
 
 
