@@ -33,6 +33,10 @@
 | UNIQ: UNIFORM NOISE INJECTION FOR NON-UNIFORM QUANTIZATION OF NEURAL NETWORKS | 2018 | low computational budget regime | [Paper](https://www.google.com/search?q=UNIQ%3A+UNIFORM+NOISE+INJECTION+FOR+NON-UNIFORM+QUANTIZATION+OF+NEURAL+NETWORKS&rlz=1C1GCEU_enMY1056MY1057&oq=UNIQ%3A+UNIFORM+NOISE+INJECTION+FOR+NON-UNIFORM+QUANTIZATION+OF+NEURAL+NETWORKS&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEHODA2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8) |
 | Nonuniform-to-Uniform Quantization: Towards Accurate Quantization via Generalized Straight-Through Estimation | 2022 | Nonuniform-to-Uniform Quantization (N2UQ) | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9879262) |
 | Efficient Weights Quantization of Convolutional Neural Networks Using Kernel Density Estimation based Non-uniform Quantizer | 2019 | propose a kernel density estimation based non-uniform quantization methodology that can perform compression efficiently. | [Paper](https://www.mdpi.com/2076-3417/9/12/2559) |
+| Learning both Weights and Connections for Efficient Neural Networks | 2015 | Pruning and Quantization Techniques | [Paper](https://arxiv.org/abs/1506.02626) |
+| 1-bit stochastic gradient descent and its application to data-parallel distributed training of speech DNNs. | 2014 | Gradient Quantization | [Paper](https://www.microsoft.com/en-us/research/?from=https%3A%2F%2Fresearch.microsoft.com%2Fpubs%2F226652%2F1bitSGD.pdf&type=no-match) |
+| Compressing deep convolutional networks using vector quantization | 2014 | Non-Uniform Quantization |  [Paper](https://arxiv.org/abs/1412.6115) |
+| Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation | 2013 | Discrete Optimization | [Paper](https://arxiv.org/abs/1308.3432) | 
 
 
 
