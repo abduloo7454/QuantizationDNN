@@ -1,4 +1,4 @@
-# Survey Paper on quantization
+# Awesome Model Quantization 
 | TITLE |DESCRIPTION| YEAR | Github LINK |
 |-------|------|------|------|
 | Awesome-Model-Quantization | This repo collects papers, documents, and codes about model quantization for anyone who wants to research it. We are continuously improving the project. Welcome to PR the works (papers, repositories) that the repo misses. | 2015-2024 | [paper](https://github.com/Efficient-ML/Awesome-Model-Quantization?tab=readme-ov-file) |
